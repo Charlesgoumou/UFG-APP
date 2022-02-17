@@ -1,1 +1,1 @@
-# UFG-APP
+# ufg-app
